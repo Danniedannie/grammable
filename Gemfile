@@ -86,6 +86,10 @@ gem "figaro"
 
 gem "fog-aws"
 
+gem 'font-awesome-sass', '~> 5.8.1'
+
+gem 'bootstrap-sass', '~> 3.3.6'
+
 
 
 
